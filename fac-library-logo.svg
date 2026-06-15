@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#173f35"/>
+  <path d="M122 150c0-20 16-36 36-36h72c24 0 45 10 58 27 13-17 34-27 58-27h28c20 0 36 16 36 36v226c0 12-10 22-22 22h-54c-20 0-39 7-54 20-8 7-20 7-28 0-15-13-34-20-54-20h-54c-12 0-22-10-22-22V150Z" fill="#fffdf8"/>
+  <path d="M158 154h72c22 0 40 18 40 40v166c-13-6-27-9-42-9h-70V154Zm196 0h20v197h-32c-15 0-29 3-42 9V194c0-22 18-40 40-40h14Z" fill="#b98b3b"/>
+  <text x="256" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="70" font-weight="900" fill="#173f35">FAC</text>
+</svg>
